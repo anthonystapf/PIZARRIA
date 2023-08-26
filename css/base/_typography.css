@@ -1,0 +1,17 @@
+.titulo__principal {
+    font-family: var(--font-Bricolage-Grotesque);
+    font-size: var(--txt-large);
+    line-height: 36px;
+}
+
+.txt__small {
+    font-family: var(--font-Lora);
+    font-size: var(--txt-small);
+    font-weight: 300;
+    line-height: 29px;
+}
+.txt__medium {
+    font-family: var(--font-Lora);
+    font-size: var(--font-Lora);
+    font-weight: 700;
+}

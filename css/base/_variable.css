@@ -1,0 +1,17 @@
+@import "https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&family=Mukta:wght@300;500;700&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,300;10..48,500&family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=Roboto+Condensed:ital,wght@0,300;0,400;1,300;1,400&display=swap";
+
+:root {
+    --font-cherry-bomb: "Cherry Bomb One";
+    --font-mukta: "Mukta";
+    --font-Bricolage-Grotesque:"Bricolage Grotesque";
+    --font-Lora:"Lora";
+    --txt-large: 25px;
+    --txt-medium: 18px;
+    --txt-small: 20px;
+    --color-black: black;
+    --color-white: white;
+}
+
+
+
